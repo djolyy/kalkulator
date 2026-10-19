@@ -28,7 +28,7 @@ void izpisiPomoc() {
 }
 
 int main() {
-    std::cout << "Kalkulator - vpisi 'pomoc' za seznam operacij, 'q' za izhod.\n";
+    std::cout << "Kalkulator v1.0 - vpisi 'pomoc' za seznam operacij, 'q' za izhod.\n";
 
     std::string vrstica;
     while (true) {
