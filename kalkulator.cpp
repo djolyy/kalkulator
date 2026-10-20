@@ -18,7 +18,7 @@ double potenca(double a, double b) { return std::pow(a, b); }
 double koren(double x) { return std::sqrt(x); }
 
 void izpisiPomoc() {
-    std::cout << "Podprte operacije:\n"
+    std::cout << "Podprte operacije kalkulatorja:\n"
               << "  a + b     sestevanje\n"
               << "  a - b     odstevanje\n"
               << "  a * b     mnozenje\n"
