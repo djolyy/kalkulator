@@ -35,7 +35,7 @@ int main() {
 
     std::string vrstica;
     while (true) {
-        std::cout << "> ";
+        std::cout << "kalk> ";
         if (!std::getline(std::cin, vrstica)) break;
 
         std::istringstream vnos(vrstica);
