@@ -82,6 +82,8 @@ int main() {
                 std::cout << "Operacija '" << op << "' ni podprta (vpisi 'pomoc').\n";
         }
     }
+
+    std::cout << "Nasvidenje in hvala za uporabo!" << std::endl;
     
     return 0;
 }
