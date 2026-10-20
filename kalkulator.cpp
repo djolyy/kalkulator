@@ -83,7 +83,7 @@ int main() {
         }
     }
 
-    std::cout << "Hvala in adijo!" << std::endl;
+    std::cout << "Lep pozdrav" << std::endl;
     
     return 0;
 }
