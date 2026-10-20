@@ -27,6 +27,7 @@ void izpisiPomoc() {
               << "  a ^ b     potenciranje\n"
               << "  sqrt x    kvadratni koren\n"
               << "  pomoc     izpis te pomoci\n"
+              << "  primer:   3 + 4\n"
               << "  q         izhod\n";
 }
 
