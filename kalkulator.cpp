@@ -2,6 +2,7 @@
 // Vnos: "a op b" (npr. 3 * 4) ali "sqrt x" (npr. sqrt 16)
 // Avtor: Đorđe Miletić
 // Predmet: Razvoj programske opreme
+// Sprememba na GitHub-u
 
 #include <cmath>
 #include <iostream>
