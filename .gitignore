@@ -1,3 +1,10 @@
-kalkulator
+# Prevedene datoteke
 build/
-.vscode/
+*.o
+/kalkulator
+
+# Dnevniki
+*.log
+
+# Skrivnosti
+.env
