@@ -1,3 +1,4 @@
 kalkulator
 build/
 .vscode/
+.env
