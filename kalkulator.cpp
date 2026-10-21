@@ -17,6 +17,7 @@ double ostanek(double a, double b) { return std::fmod(a, b); }
 double potenca(double a, double b) { return std::pow(a, b); }
 double koren(double x) { return std::sqrt(x); }
 
+// Osnovne računske operacije
 void izpisiPomoc() {
     std::cout << "Podprte operacije:\n"
               << "  a + b     sestevanje\n"
